@@ -2,8 +2,8 @@
  <title>Canvas icon theme</title>
  <defs>
   <linearGradient id="a" x1="13.229" x2="2.1167" y1="297" y2="280.07" gradientTransform="matrix(1.0714 0 0 1 -.60476 0)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ff83ac" offset="0"/>
-   <stop stop-color="#ffa600" offset="1"/>
+   <stop stop-color="#f2660c" offset="0"/>
+   <stop stop-color="#f2660c" offset="1"/>
   </linearGradient>
  </defs>
  <g transform="translate(0 -280.07)">
@@ -15,8 +15,8 @@
    <rect x="14.023" y="282.71" width=".79375" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
    <rect x="13.229" y="282.71" width=".52917" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
   </g>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m15 51c-1.108 0-2 0.89201-2 2v2h38v-2c0-1.108-0.89201-2-2-2h-34z" fill="#fff" opacity=".35" style="paint-order:stroke markers fill"/>
-  <g fill="#ffcec3">
+  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m15 51c-1.108 0-2 0.89201-2 2v2h38v-2c0-1.108-0.89201-2-2-2h-34z" fill="#f2660c" opacity=".35" style="paint-order:stroke markers fill"/>
+  <g fill="#f2660c">
    <rect x="4.4979" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
    <rect x="6.7028" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
    <rect x="8.9076" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>

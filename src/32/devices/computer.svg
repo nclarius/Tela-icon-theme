@@ -5,9 +5,9 @@
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <path d="M13.005 22v6.14l-2.545.184h-.01c-.26 0-.45.184-.45.407V29h12v-.269c0-.223-.19-.407-.45-.407h-.012l-2.543-.184V22z" fill="#c4c7cc"/>
- <rect x="1" y="3" width="30" height="20" rx="1.034" ry="1.053" fill="#2f3337"/>
- <path d="M2 4h28v18H2z" fill="#5294e2" fill-rule="evenodd"/>
- <path d="M2 4h28v18H2z" fill="#5294e2" fill-rule="evenodd"/>
+ <path d="M13.005 22v6.14l-2.545.184h-.01c-.26 0-.45.184-.45.407V29h12v-.269c0-.223-.19-.407-.45-.407h-.012l-2.543-.184V22z" fill="#f2660c"/>
+ <rect x="1" y="3" width="30" height="20" rx="1.034" ry="1.053" fill="#f2660c"/>
+ <path d="M2 4h28v18H2z" fill="#f2660c" fill-rule="evenodd"/>
+ <path d="M2 4h28v18H2z" fill="#f2660c" fill-rule="evenodd"/>
  <path d="m27.944 4a24.567 24.567 0 0 1-8.451 18h10.507v-18h-2.0556z" fill="url(#a)" opacity=".15"/>
 </svg>

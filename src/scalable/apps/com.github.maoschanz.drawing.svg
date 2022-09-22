@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#f2660c"
+     bordercolor="#f2660c"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -80,7 +80,7 @@
          height="82"
          rx="8"
          ry="8"
-         fill="#f6f5f4"
+         fill="#f2660c"
          style="paint-order:normal"
          id="rect8" />
     </clipPath>
@@ -96,11 +96,11 @@
     <linearGradient
        id="a">
       <stop
-         stop-color="#e01b24"
+         stop-color="#f2660c"
          offset="0"
          id="stop12" />
       <stop
-         stop-color="#f66151"
+         stop-color="#f2660c"
          offset="1"
          id="stop14" />
     </linearGradient>
@@ -133,11 +133,11 @@
        gradientTransform="matrix(1.3276,0,0,1.3276,-510.64,-663.52)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#fff"
+         stop-color="#f2660c"
          offset="0"
          id="stop21" />
       <stop
-         stop-color="#e6e6e6"
+         stop-color="#f2660c"
          offset="1"
          id="stop23" />
     </linearGradient>
@@ -172,11 +172,11 @@
        gradientTransform="matrix(1.3276 0 0 1.3276 -510.64 -663.52)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ebe8e8"
+         stop-color="#f2660c"
          offset="0"
          id="stop32" />
       <stop
-         stop-color="#e6e6e6"
+         stop-color="#f2660c"
          offset="1"
          id="stop34" />
     </linearGradient>
@@ -200,7 +200,7 @@
        id="path73"
        d="M 36.793,61.59 61.594,36.789 C 48.845,38.8281 38.833,48.841 36.793,61.59 Z"
        inkscape:connector-curvature="0"
-       style="fill:#ffffff" />
+       style="fill:#f2660c" />
   </g>
   <g
      transform="matrix(0.44440974,0,0,0.44440974,2.2565697,-75.709227)"
@@ -209,7 +209,7 @@
        d="m 21.901,230.5 c 13.385,4.5427 -5.5887,17.696 13.921,18.944 11.465,0.73361 11.376,16.553 11.376,16.553"
        id="path49"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#e01b24;stroke-width:4;stroke-linecap:round" />
+       style="fill:none;stroke:#f2660c;stroke-width:4;stroke-linecap:round" />
     <g
        transform="translate(0,2)"
        id="g67"

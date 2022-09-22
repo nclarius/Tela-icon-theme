@@ -12,12 +12,12 @@
  </metadata>
  <title>Gnome Symbolic Icon Theme</title>
  <g transform="translate(-41 -257)">
-  <circle cx="73" cy="288.98" r="27" fill="#5ca0d6" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
-  <g fill="#fff" fill-rule="evenodd">
-   <path d="m82 273.5v3 24 3h6v-3-24-3z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
-   <path d="m74 279.5v3 18 3h6v-3-18-3z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
-   <path d="m66 285.5v3 12 3h6v-3-12-3z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
-   <path d="m58 291.5v3 6 3h6v-3-6-3z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+  <circle cx="73" cy="288.98" r="27" fill="#261a15" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+  <g fill="#261a15" fill-rule="evenodd">
+   <path d="m82 273.5v3 24 3h6v-3-24-3z" color="#261a15" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+   <path d="m74 279.5v3 18 3h6v-3-18-3z" color="#261a15" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+   <path d="m66 285.5v3 12 3h6v-3-12-3z" color="#261a15" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+   <path d="m58 291.5v3 6 3h6v-3-6-3z" color="#261a15" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
   </g>
  </g>
 </svg>

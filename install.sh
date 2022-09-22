@@ -30,6 +30,7 @@ Usage: $0 [OPTION] | [COLOR VARIANTS]...
 OPTIONS:
   -a                       Install all color folder versions
   -c                       Install plasma colorscheme folder version
+  -m                       Install monochrome version
   -d DIR                   Specify theme destination directory (Default: $HOME/.local/share/icons)
   -n NAME                  Specify theme name (Default: Tela)
   -h                       Show this help
@@ -77,6 +78,11 @@ install_theme() {
 
   # Update the name in index.theme
   sed -i "s/%NAME%/${THEME_NAME//-/ }/g"                                         "${THEME_DIR}/index.theme"
+
+  # monochromatize
+  if [ "${monochrome}" == "true" ]; then
+      python monochromatize.py  
+  fi
 
   if [ -z "${brightprefix}" ]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
@@ -145,9 +151,14 @@ install_theme() {
 while [ $# -gt 0 ]; do
   if [[ "$1" = "-a" ]]; then
     colors=("${COLOR_VARIANTS[@]}")
+  elif [[ "$1" = "-m" ]]; then
+    colorscheme="true"
+    monochrome="true"
+    echo "Icons will be monochrome ..."
+    shift
   elif [[ "$1" = "-c" ]]; then
     colorscheme="true"
-    echo "Folder color will follow the colorscheme on KDE plasma ..."
+    echo "Folder color will follow the colorscheme on KDE plasma..."
     shift
   elif [[ "$1" = "-d" ]]; then
     DEST_DIR="$2"

@@ -6,7 +6,7 @@
   </linearGradient>
  </defs>
  <g transform="matrix(1.04 0 0 1.0379 -.339 -291.01)" stroke-width=".962" paint-order="markers stroke fill">
-  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="2.0349" ry="2.0349" fill="#e03640"/>
+  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="2.0349" ry="2.0349" fill="#f2660c"/>
  </g>
- <text transform="translate(0 -280.07)" x="3.925" y="291.978" fill="#fff" font-family="sans-serif" font-size="9.065" font-weight="700" letter-spacing="0" stroke-width=".265" word-spacing="0" style="line-height:1.25"><tspan x="3.925" y="291.978">中</tspan></text>
+ <text transform="translate(0 -280.07)" x="3.925" y="291.978" fill="#f2660c" font-family="sans-serif" font-size="9.065" font-weight="700" letter-spacing="0" stroke-width=".265" word-spacing="0" style="line-height:1.25"><tspan x="3.925" y="291.978">中</tspan></text>
 </svg>

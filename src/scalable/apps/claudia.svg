@@ -13,7 +13,7 @@
      cx="32"
      cy="32"
      r="27"
-     fill="#ff4b68"
+     fill="#f2660c"
      stroke-width="0.9"
      style="fill:#ef4360;fill-opacity:1;paint-order:stroke markers fill"
      id="circle96963" />
@@ -45,7 +45,7 @@
      cx="22.667"
      cy="42.667"
      r="2.6667"
-     fill="#b0b0b0"
+     fill="#f2660c"
      stroke-width="1.3333"
      style="paint-order:normal"
      id="ellipse20" />

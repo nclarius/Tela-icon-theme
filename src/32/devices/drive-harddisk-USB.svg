@@ -16,9 +16,9 @@
   </linearGradient>
  </defs>
  <g transform="translate(-1.23 -1.23) scale(.53846)" stroke-width="1.857">
-  <path d="M53 55V9c0-1.662-1.338-3-3-3H14c-1.662 0-3 1.338-3 3v46c0 1.662 1.338 3 3 3h36c1.662 0 3-1.338 3-3z" fill="#666"/>
-  <circle cx="32" cy="31" r="16" fill="#7297ba" paint-order="markers stroke fill"/>
-  <path d="M25 34h14v3H25zm7-10l7 7H25z" fill="#fff"/>
+  <path d="M53 55V9c0-1.662-1.338-3-3-3H14c-1.662 0-3 1.338-3 3v46c0 1.662 1.338 3 3 3h36c1.662 0 3-1.338 3-3z" fill="#f2660c"/>
+  <circle cx="32" cy="31" r="16" fill="#f2660c" paint-order="markers stroke fill"/>
+  <path d="M25 34h14v3H25zm7-10l7 7H25z" fill="#f2660c"/>
   <path d="M53 39.457A39.271 39.271 0 0 1 28.646 58H51c1.108 0 2-.892 2-2z" fill="url(#b)" opacity=".25"/>
  </g>
 </svg>

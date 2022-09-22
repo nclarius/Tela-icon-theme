@@ -7,12 +7,12 @@
  </defs>
  <g transform="translate(0 -280.07)" paint-order="markers stroke fill">
   <g transform="matrix(1.04 0 0 1.04 -.339 -11.541)" stroke-width=".962">
-   <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="2.0349" ry="2.0349" fill="#ff5555"/>
+   <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="2.0349" ry="2.0349" fill="#f2660c"/>
   </g>
-  <circle cx="5.027" cy="285.09" r="1.058" fill="#fff"/>
-  <circle cx="11.906" cy="285.09" r="1.058" fill="#fff"/>
-  <circle cx="5.027" cy="291.97" r="1.058" fill="#fff"/>
-  <circle cx="11.906" cy="291.97" r="1.058" fill="#fff"/>
-  <circle cx="8.467" cy="288.53" r="1.058" fill="#fff"/>
+  <circle cx="5.027" cy="285.09" r="1.058" fill="#f2660c"/>
+  <circle cx="11.906" cy="285.09" r="1.058" fill="#f2660c"/>
+  <circle cx="5.027" cy="291.97" r="1.058" fill="#f2660c"/>
+  <circle cx="11.906" cy="291.97" r="1.058" fill="#f2660c"/>
+  <circle cx="8.467" cy="288.53" r="1.058" fill="#f2660c"/>
  </g>
 </svg>

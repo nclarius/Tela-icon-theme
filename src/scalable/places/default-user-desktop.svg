@@ -2,8 +2,8 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="a" x1="13.229" x2="2.1167" y1="297" y2="280.07" gradientTransform="matrix(1.0714 0 0 1 -.60476 0)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#66bcff" offset="0"/>
-   <stop stop-color="#b29aff" offset="1"/>
+   <stop stop-color="#f2660c" offset="0"/>
+   <stop stop-color="#f2660c" offset="1"/>
   </linearGradient>
  </defs>
  <g transform="matrix(3.7795 0 0 3.7792 -4.1634e-6 -1058.4)">
@@ -13,8 +13,8 @@
   <rect x="15.081" y="282.71" width=".52917" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
   <rect x="14.023" y="282.71" width=".79375" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
   <rect x="13.229" y="282.71" width=".52917" height=".52918" ry=".26459" opacity=".35" style="paint-order:stroke markers fill"/>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m15 51c-1.108 0-2 0.89201-2 2v2h38v-2c0-1.108-0.89201-2-2-2z" fill="#fff" opacity=".35" style="paint-order:stroke markers fill"/>
-  <g fill="#ccdfff">
+  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m15 51c-1.108 0-2 0.89201-2 2v2h38v-2c0-1.108-0.89201-2-2-2z" fill="#f2660c" opacity=".35" style="paint-order:stroke markers fill"/>
+  <g fill="#f2660c">
    <rect x="4.4979" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
    <rect x="6.7028" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
    <rect x="8.9076" y="292.77" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>

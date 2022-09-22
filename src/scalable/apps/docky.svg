@@ -1,8 +1,8 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" x1="13.229" x2="2.117" y1="297" y2="280.07" gradientTransform="matrix(.96429 0 0 1.1739 .30312 -330.25)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#66bcff" offset="0"/>
-   <stop stop-color="#b29aff" offset="1"/>
+   <stop stop-color="#f2660c" offset="0"/>
+   <stop stop-color="#f2660c" offset="1"/>
   </linearGradient>
  </defs>
  <g>
@@ -10,8 +10,8 @@
   <path d="m8.4665 1.3229c-1.3783 0-2.6625 0.38744-3.7516 1.0583h7.5033c-1.0891-0.67088-2.3734-1.0583-3.7516-1.0583z" opacity=".35" style="paint-order:stroke markers fill"/>
   <rect x="7.1436" y="1.5875" width="2.6458" height=".52916" ry=".26508" opacity=".35" style="paint-order:stroke markers fill"/>
  </g>
- <path transform="scale(.26458)" d="m12.785 50.998c1.9818 2.0044 4.2779 3.6942 6.8086 5h24.812c2.5307-1.3058 4.8268-2.9956 6.8086-5h-38.43z" fill="#fff" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
- <g fill="#ccdfff">
+ <path transform="scale(.26458)" d="m12.785 50.998c1.9818 2.0044 4.2779 3.6942 6.8086 5h24.812c2.5307-1.3058 4.8268-2.9956 6.8086-5h-38.43z" fill="#f2660c" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
+ <g fill="#f2660c">
   <rect x="4.498" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
   <rect x="6.703" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
   <rect x="8.908" y="12.7" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
